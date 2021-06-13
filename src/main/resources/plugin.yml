@@ -1,0 +1,11 @@
+name: Locationer
+version: ${project.version}
+main: com.reflexian.locationer.Locationer
+api-version: 1.16
+authors: [ Raymond ]
+description: Save the location of players
+website: https://www.reflexian.com
+commands:
+  savelocation:
+    usage: /savelocation
+    description: Save the location of all online players :)

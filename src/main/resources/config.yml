@@ -1,0 +1,7 @@
+database:
+  type: SQLite # SQLite or MySQL
+  url: 127.0.0.1
+  database: database1
+  username: test
+  password: Password123
+  port: 3306
